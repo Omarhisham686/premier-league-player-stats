@@ -21,21 +21,21 @@ Built an end-to-end data analytics project using SQL and Power BI to analyze Pre
 
 The project helped uncover insights into player performance across seasons
 
-### data source:
+### data source
 
 "the primary data set used for this analysis is the "epl_player_stats_24_25.csv"
 
-### tools:
+### tools
 - sql server (data cleaning)
 - powerbi (dashboard)
 
-### data cleaning/perepration:
+### data cleaning/perepration
 in the data prepration phase we performed :
 - data loading and inspection
 - handling mising values
 - data cleaning
 
-### exploatary data analysis (EDA):
+### exploatary data analysis (EDA)
 EDA involve explore the data to answer key question such as:
 
 1- as a goalkeeper who has the most saves and most clean sheets
@@ -62,7 +62,7 @@ MAXX (
     'epl_player_stats_24_25'[Goals]
 )
 ```
-### results :
+### results 
 the result summarized as follow:
 
 we analyized each player based on his statistics to determine who performed well and benefited their team, and who performed poorly and was a burden.
