@@ -4,8 +4,8 @@
 - [project overview](#project-overview)
 - [data source](#data-source)
 - [tools](#tools)
-- [data cleaning and perpration](#data-cleaning-and-perpration)
-- [exploatary data analysis (EDA)](#exploatary-data-analysis (EDA))
+- [data cleaning/perepration](#data-cleaning-/-perpration)
+- [exploatary data analysis (EDA)](#exploatary-data-analysis-(EDA))
 - [data analysis](#data-analysis)
 - [results](#results)
 
